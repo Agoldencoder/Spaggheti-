@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <title>My Website</title>
+
+<head>
+   <h1>Spaggheti recipe!!!!</h1>
+   
+   <link rel="stylesheet"  type="text/css" href="styles.css"> <title>My website</title><h1 class="title">My Website</h1>
+</head>
+    
+<body>
+    <img src="https://valentinascorner.com/wp-content/uploads/2016/02/Spagettti-Recipe-0077.jpg"
+    width="400"
+    height="400"  /> 
+<h3 class="subtitle">This spagetti recipe is possibly the best AND easiest out there. Its meaty, cheesy, and full of flavor!</h3>
+
+<h1 id="ingredients">Here are the ingredients you will need for this delicous pasta!</h1>
+<ul>
+<li>1lb ground beef</li>
+
+<li>4 stalk celery(chopped</li>
+
+<li>1 can diced tomatos</li>
+
+<li>1 can tomato paste</li>
+
+<li>1 mushroom can red wine, 5,6 cloves</li>
+
+<li>1/4 cup chopped fresh parsley</li>
+
+<li>1t oregano</li>
+
+<li>1t salt</li>
+
+<li>1 onion chopped</li>
+
+<li>4 cloves garlic, minced</li>
+
+<li>1 can tomato sauce 29oz</li>
+
+<li>1 can sliced mushrooms</li>
+
+<li>1 can beef broth (CONDENSED!)</li>
+
+<li>2 bay leaves</li>
+
+<li>1 t.sugar</li>
+
+<li>fresh ground pepper</li>
+
+<li>1 t. basil</li>
+
+
+
+</ul>
+ <ol>
+<li>Brown meat, drain fat</li>
+<li>Add chopped onion and celery(equal amounts of each</li>
+<li>Put in minced garlic towards the end</li>
+<li>Add meat, onion, and celery to stock pot with rest of ingredients, bring to a boil (cover with lid) Simmer for at least 3 hours on med/low heat </li>
+
+
+
+<h1>Serve on a plate, and enjoy!</h1>
+
+
+
+<h1>This was very fun to make!</h1>
+
+
+
+ </ol>
+</body>    
+
+</html> 
